@@ -1,2 +1,2 @@
 # Myntra-Clone-Page
-Created a clone Myntra website using Html,CSS and Javascript.
+I had created a clone Myntra website using Html,CSS and Javascript.
